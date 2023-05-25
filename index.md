@@ -24,6 +24,14 @@ Second, **we aim to empower training providers by offering them increased visibi
 | [The Taggart Institute](https://taggartinstitute.org/) | PT🪓, RT🔴, OS🖥️ | 8 | 🟩 Budget | Red Teaming, Binary Exploitation, Linux, Python, Web Application Security and Testing | [YAML](./trainings/TTI.yml) |
 | [TryHackMe](https://tryhackme.com/) | PT🪓, VR🧨, DF🔍, TH🏹 | 500+ | 🟩 Budget | - | - |
 | [Xintra](https://training.xintra.org/) | PT🪓, DF🔍, RE🔬 | 2 | 🟧 Premium | Azure, Cloud, iOS, Reverse Engineering, ARM | [YAML](./trainings/xintra.yml)  | 
+| [Zero2auto](https://courses.zero2auto.com/) | PT🪓, DF🔍, RE🔬,MA😈 | 2 | 🟨 Value  | Malware Analysis, Reverse Engineering, Threat Intelligence | [YAML](./trainings/zero2auto.yml)  | 
+| [CyberDefenders](https://cyberdefenders.org/) | PT🪓, DF🔍, RE🔬,SM📡,TI🗺️, CR📜 | 2 | 🟩 Budget | Threat Hunting, Forensics, Splunk, Log Analysis, Detection Engineering, Packet Analysis, Cyber Chef, OSquery, Elk | [YAML](./trainings/cyberdefenders.yml)  | 
+| [Ace Rsponder](https://www.aceresponder.com/) | PT🪓, DF🔍,SM📡  | 2 | 🟩 Budget | Opensearch, threat hunting | [YAML](./trainings/aceresponders.yml)  | 
+| [HackTheBox](https://www.hackthebox.com/) | PT🪓,WH🕸️ | 2 | 🟩 Budget| CTF, Pentest, Red Teaming, lab | [YAML](./trainings/htb.yml)  | 
+| [Root-me](https://www.root-me.org/) | PT🪓, RE🔬,WH🕸️ | 2 | 🟩 Budget | CTF, pentest, crackme, reverse enginering, crypto, etc.. | [YAML](./trainings/rootme.yml)  | 
+| [specterops](https://specterops.io/training/) | PT🪓, CR📜,DT🪤  | 2 | 🟧 Premium | Red teaming,| [YAML](./trainings/specterops.yml)  | 
+| [Zero-Point Security](https://training.zeropointsecurity.co.uk/collections) | PT🪓, DT🪤, CR📜 | 2 | 🟨 Value  | Red teaming Malware developpement  | [YAML](./trainings/zeropointsecurity.yml)  |
+
 
 ## Unreviewed
 
@@ -78,6 +86,7 @@ Second, **we aim to empower training providers by offering them increased visibi
 | NT🛜 | Networking |
 | OS🖥️ | Operating Systems and Tools |
 | MC🧭 | Management and Compliance |
+| CR📜 | Certification Provided |
 
 ## Values in the YAML files
 
